@@ -1,0 +1,1 @@
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/9a7e4a01124c2eeea5da644574ee7dac60a68cce/contracts/token/ERC721/presets/ERC721PresetMinterPauserAutoId.sol";
